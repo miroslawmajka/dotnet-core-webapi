@@ -8,6 +8,8 @@
 
  See the Swagger docs at https://localhost:5001/swagger.
 
+ Run `dotnet watch run` to run with autoreload.
+
  ## Docs
 
 - [HTTPS](https://mycsharpdeveloper.wordpress.com/2021/12/26/how-to-enable-disable-http-https-and-change-port-no-in-asp-net-core-6/)
